@@ -1,6 +1,6 @@
 
 # RecordDesktopSilently
-Place these 3 files in any directory and run the .vbs file to begin recording silently.
+Place these 3 files in any directory and run update.vbs to begin recording silently.
 ## update.exe
 * This file is just ffmpeg that's been renamed to be slightly more inconspicuous.
 ## update.bat
