@@ -2,7 +2,7 @@
 # RecordDesktopSilently
 Place these 3 files in any directory and run update.vbs to begin recording silently.
 ## update.exe
-* This file is just ffmpeg that's been renamed to be slightly more inconspicuous.
+* This file is just ffmpeg that's been renamed to be slightly more inconspicuous in Task Manager.
 ## update.bat
 * There are two lines to this batch file. The first line deletes "output.mp4" if it already exists in the same directory.
 * The framerate in frames per second of the recording is set here following the "-framerate" flag
